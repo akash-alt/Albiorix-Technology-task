@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "username": "akash1",
+      "email": "akash@gmail.com",
+      "dob": "12/12/1998",
+      "phone": "9415081190",
+      "id": 1
+    },
+    {
+      "name": "kritika",
+      "username": "kritika2",
+      "email": "kritika@gmail.com",
+      "dob": "12/12/1996",
+      "phone": "123455433",
+      "id": 4
+    },
+    {
+      "name": "Mohit",
+      "username": "Mohit1",
+      "email": "Mohit@gmail.com",
+      "dob": "1/8/1997",
+      "phone": "4794554555",
+      "id": 5
+    },
+    {
+      "name": "salini",
+      "username": "salini1",
+      "email": "salini@gmail.com",
+      "dob": "12/2/1999",
+      "phone": "465825462",
+      "id": 6
+    },
+    {
+      "name": "tanya",
+      "username": "tanya",
+      "email": "tanya@gmail.com",
+      "dob": "22/1/1997",
+      "phone": "488655",
+      "id": 2
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 7
+    },
+    {
+      "name": "test1",
+      "dob": "test1",
+      "email": "test@gmail.com",
+      "phone": "112-12-121334",
+      "id": 8
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "test",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 9
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 10
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "12/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 11
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 13
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 17
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "12/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 18
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "12/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "8217802801",
+      "id": 19
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 20
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "8217802801",
+      "id": 21
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 24
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217802801",
+      "id": 25
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 27
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "082178",
+      "id": 28
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "08217823",
+      "id": 29
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "",
+      "email": "akashyadav.inbox@gmail.com",
+      "phone": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "id": 32
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akash.beat.15@acharya.ac.in",
+      "phone": "08217802801",
+      "id": 33
+    },
+    {
+      "name": "Akash Yadav",
+      "dob": "1/1/1998",
+      "email": "akash.beat.15@acharya.ac.in",
+      "phone": "8217802801",
+      "id": 34
+    }
+  ]
+}
